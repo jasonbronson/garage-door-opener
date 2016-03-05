@@ -21,5 +21,5 @@ When the door is triggered and in progress
 
 
 
-[1]: http://imgur.com/zaoU2Ak|alt=garage-door-interface
-[2]: http://imgur.com/tMs23Lh|alt=garage-door-inprogress
+[1]: http://imgur.com/zaoU2Ak
+[2]: http://imgur.com/tMs23Lh
