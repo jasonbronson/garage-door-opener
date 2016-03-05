@@ -21,5 +21,5 @@ When the door is triggered and in progress
 
 
 
-[1]: http://imgur.com/zaoU2Ak
-[2]: http://imgur.com/tMs23Lh
+[1]: http://i.imgur.com/zaoU2Ak.png
+[2]: http://i.imgur.com/tMs23Lh.png
