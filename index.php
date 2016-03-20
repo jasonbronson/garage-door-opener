@@ -102,7 +102,7 @@ $(document).ready(function(){
     });
     $("#open-button").click(function(){
         $("#message").show();
-        ToggleDoor(4000);
+        ToggleDoor(5000);
 
     });
 
