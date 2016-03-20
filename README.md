@@ -5,7 +5,7 @@
 Monitor and control your garage door. Garage door opener is an opensource interface for mobile phones
 allowing you to open and close your garage door.
 
-Using bootstrap 3 and Jquery 2
+Using arduino, bootstrap 3 and Jquery 2
 
 ## Installation
 
